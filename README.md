@@ -2,19 +2,26 @@
 
 My Learning Path for Data structures and Algorithms
 
+## DataStructures
+
+- [**Arrays**](#1-arrays)
+- [**Linked Lists**](#2-linked-lists)
+- [**Stacks**](#3-stacks)
+- [**Queues**](#4-queues)
+
 ## Algorithms
 
 ### Data Structure specific algorithms
 
 #### 1. **Arrays**
 
-   - **Sorting**
+- **Sorting**
 
-     - **Bubble Sort**
-     - **Selection Sort**
-     - **Insertion Sort**
+  - **Bubble Sort**
+  - **Selection Sort**
+  - **Insertion Sort**
 
-   - **Searching**
+- **Searching**
 
 #### 2. **Linked Lists**
 
@@ -23,10 +30,3 @@ My Learning Path for Data structures and Algorithms
 #### 4. **Queues**
 
 ### General algorithms/techniques
-
-## DataStructures
-
-- [**Arrays**](#1-arrays)
-- [**Linked Lists**](#2-linked-lists)
-- [**Stacks**](#3-stacks)
-- [**Queues**](#4-queues)
