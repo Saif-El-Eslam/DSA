@@ -20,6 +20,7 @@ My Learning Path for Data structures and Algorithms
   - **Bubble Sort**
   - **Selection Sort**
   - **Insertion Sort**
+  - **Merge Sort**
 
 - **Searching**
 
