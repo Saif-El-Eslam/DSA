@@ -21,6 +21,7 @@ My Learning Path for Data structures and Algorithms
   - **Selection Sort**
   - **Insertion Sort**
   - **Merge Sort**
+  - **Quick Sort**
 
 - **Searching**
 
