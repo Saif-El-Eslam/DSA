@@ -23,6 +23,7 @@ My Learning Path for Data structures and Algorithms
   - **Merge Sort**
   - **Quick Sort**
   - **Heap Sort**
+  - **Counting Sort**
 
 - **Searching**
 
