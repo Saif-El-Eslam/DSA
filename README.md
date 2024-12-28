@@ -5,6 +5,8 @@ My Learning Path for Data structures and Algorithms
 ## DataStructures
 
 - [**Arrays**](#1-arrays)
+  - [**Sorting**](#sorting)
+  - [**Searching**](#searching)
 - [**Linked Lists**](#2-linked-lists)
 - [**Stacks**](#3-stacks)
 - [**Queues**](#4-queues)
@@ -15,7 +17,7 @@ My Learning Path for Data structures and Algorithms
 
 #### 1. **Arrays**
 
-- **Sorting**
+- ##### **Sorting**
 
   - **Bubble Sort**
   - **Selection Sort**
@@ -25,7 +27,7 @@ My Learning Path for Data structures and Algorithms
   - **Heap Sort**
   - **Counting Sort**
 
-- **Searching**
+- ##### **Searching**
 
 #### 2. **Linked Lists**
 
