@@ -1,6 +1,8 @@
 # DSA
 
-My Learning Path for Data structures and Algorithms
+My Learning Path for Data Structures and Algorithms
+
+Refs: https://instabyte.io/p/dsa-master
 
 ## DataStructures
 
